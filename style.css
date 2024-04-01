@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+        font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho{
     background-color: #46633d;
     color: beige;
@@ -19,4 +23,46 @@
     display: inline-block;
     margin: 0 30px;
     font-size: 24px;
+}
+
+.sobre{
+    background-image: linear-gradient(#46633d, #87b773);
+    color: beige;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.elliott-smith-2{
+    width: 17%;
+}
+
+.div-elliott{
+    width: 100%;
+}
+
+.elliott-sobre{
+    padding: 24px;
+}
+
+.elliott-smith-cantando{
+    width: 20.1%;
+    padding: 4px 8px;
+}
+
+.elliott-smith-preto-e-branco{
+    width: 18.2%;
+    padding: 4px 8px;
+}
+
+.elliott-smith-3{
+    width: 20%;
+    padding: 4px 8px;
+}
+
+.fotos-div{
+    text-align: center;
+    padding: 16px 0;
 }
